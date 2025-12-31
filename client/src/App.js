@@ -20,7 +20,7 @@ function App() {
     setCurrentTaskIndex(0);
 
     try {
-      const response = await axios.post("http://localhost:5000/generate-tasks", {
+      const response = await axios.post("https://one-nefw.onrender.com/generate-tasks", {
         goal: goal.trim(),
       });
 
