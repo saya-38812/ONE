@@ -6,7 +6,6 @@ This app leverages the power of GPT (Generative Pre-trained Transformer) to assi
 ## Features
 - **Input Task:** Users can enter any task that seems overwhelming or complicated.
 - **GPT Processing:** The app uses GPT to analyze the input task and generate three subtasks that contribute to accomplishing the main task.
-- **User-Friendly Interface:** A simple and intuitive interface that allows users to easily manage their tasks and subtasks.
 
 ## Usage
 1. Enter the main task in the input field.
